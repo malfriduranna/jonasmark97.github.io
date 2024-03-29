@@ -30,7 +30,7 @@ categories: jekyll update
 
 <!-- {% include assignment2_heatmap.html %} -->
 
-{% include assignment2_heatmap.html url="" max-width="600px" file="" alt="" caption="" %}
+{% include assignment2_heatmap.html max-width="600px"%}
 
 
 <!-- {% include assignment2_heatmap.html %} -->
