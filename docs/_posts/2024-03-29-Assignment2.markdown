@@ -46,8 +46,4 @@ categories: jekyll update
 
 
 
-{% include mesh_curvature_and_geodesics.html %}
-
-
-
 
