@@ -32,6 +32,11 @@ categories: jekyll update
 
 {% include assignment2_heatmap.html max-width="1000px" %}
 
+<!-- https://github.com/daattali/beautiful-jekyll/discussions/996
+https://jekyllrb.com/docs/includes/
+ -->
+
+
 
 <!-- {% include assignment2_heatmap.html max-width="200px" %} -->
 <!-- https://rsandstroem.github.io/GeoMapsFoliumDemo.html -->
