@@ -21,6 +21,10 @@ categories: jekyll update
 ## Pie chart to show ratios (pie)
 
 
+
+{% include test.html %}
+
+
 {% include pie.html %}
 <!-- similar : https://dmnfarrell.github.io/plotting/embed-bokeh-plots-jekyll -->
 
