@@ -28,9 +28,9 @@ categories: jekyll update
 ## final heatmap to show how much one part of the city evolved (heatmap)
 
 
-{% include assignment2_heatmap.html %}
+<!-- {% include assignment2_heatmap.html %} -->
 
-{% include assignment2_heatmap.html max-width="1800px"%}
+{% include assignment2_heatmap.html url="" max-width="600px" file="" alt="" caption="" %}
 
 
 <!-- {% include assignment2_heatmap.html %} -->
