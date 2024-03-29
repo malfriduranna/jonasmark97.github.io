@@ -19,53 +19,18 @@ categories: jekyll update
 ![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/drugs_and_thefts_in_pds.jpg)
 
 ## Pie chart to show ratios (pie)
-<!-- 
-<embed 
-       type="text/html" 
-       src="assignment2_data/pie.html"
-       width="700"
-       height="500"
-       >
-</embed> -->
+
 
 {% include pie.html %}
+<!-- similar : https://dmnfarrell.github.io/plotting/embed-bokeh-plots-jekyll -->
 
-
-{% include heatmap.html %}
-
-<!-- <embed 
-       type="text/html" 
-       src="https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/pie.html"
-       width="700"
-       height="500"
-       >
-</embed> -->
 
 
 ## final heatmap to show how much one part of the city evolved (heatmap)
 
-<!-- <embed 
-       type="text/html" 
-       src="../../data/heatmap.html"
-       width="700"
-       height="500"
-       >
-</embed>
 
-<embed 
-       type="text/html" 
-       src="https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/heatmap.html"
-       width="700"
-       height="500"
-       >
-</embed> -->
-
-
-
-
-
-<!-- Here is the heatmap [Jekyll docs][test] -->
-
+{% include heatmap.html %}
+<!-- https://rsandstroem.github.io/GeoMapsFoliumDemo.html -->
 
 
 
@@ -73,7 +38,11 @@ categories: jekyll update
 <!-- [drugs_and_thefts_in_pds]: https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/drugs_and_thefts_in_pds.jpg
 [heatmap]:   https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/heatmap.html
 [pie]: https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/pie.html
-[test]: ../../data/pie.html -->
+[test]: ../../data/pie.html -->°
+
+
+
+{% include mesh_curvature_and_geodesics.html %}
 
 
 
