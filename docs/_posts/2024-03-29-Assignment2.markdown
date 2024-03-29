@@ -30,9 +30,9 @@ categories: jekyll update
 
 <!-- {% include assignment2_heatmap.html %} -->
 
-{% include assignment2_heatmap.html max-width="600px"%}
+{% include assignment2_heatmap.html max-width="1000px" %}
 
 
-<!-- {% include assignment2_heatmap.html %} -->
+<!-- {% include assignment2_heatmap.html max-width="200px" %} -->
 <!-- https://rsandstroem.github.io/GeoMapsFoliumDemo.html -->
 
