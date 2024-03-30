@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment 2"
+title:  "Assignment 2 - Group 12"
 date:   2024-03-29 12:05:00 +0100
 categories: jekyll update
 ---
@@ -16,7 +16,12 @@ categories: jekyll update
 ## What was found
 
 ## Evolution of drugs and thefts in each district (jpg)
-![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/drugs_and_thefts_in_pds.jpg)
+<!-- ![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/jonasmark97/SocialData/main/assignment2/drugs_and_thefts_in_pds.jpg) -->
+
+<!-- ![Image not found](/assets/drugs_and_thefts_in_pds.jpg) -->
+<!-- <img src="{{site.baseurl}}/assets/img/my-image.jpg"> -->
+<img src="/assets/drugs_and_thefts_in_pds.jpg">
+
 
 ## Pie chart to show ratios (pie)
 
