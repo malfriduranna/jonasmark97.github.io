@@ -13,6 +13,7 @@ categories: jekyll update
 
 # Introduction
 <!-- ## Intro to dataset and preprocessing -->
+test - malla
 The city and county of San Francisco has a [website](https://datasf.org/opendata/) containing hundreds of dataset, open to the public, in various categories ranging from film locations to fire incidents and supplier contracts. With the aim of empowering the use of data in decision making and service delivery. One of these datasets is [incident reports from the San Francisco Police Department from the 2003 to May 2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data). The incident report are reviewed and approved by a supervising Sergeant or Lieutenant but not every report is in there because of court orders or for administrative purposes such as active investigations. 
 
 The data that we are going to focus on is the crime category, timestamp, registered coordinates. The PD districts were changed in 2015 so the incident district were corrected using the updated PD district coordinates given by this [geojson shapefile](https://raw.githubusercontent.com/suneman/socialdata2022/main/files/sfpd.geojson), they have similar boundaries as [this map](https://www.sanfranciscopolice.org/your-sfpd/sfpd-stations/station-finder) . Additionally incidents that were registered under 100m from police stations and county jail, found with google maps, were filtered out since they are most likely not the actual place of the incident. Coordinates of the police stations and the county jail are as follows :   
